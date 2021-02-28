@@ -1,0 +1,19 @@
+{
+    "attendance":[
+        {
+            "id":0,
+            "name":"bibek ranjan saha",
+            "attendance":93.7
+        },
+        {
+            "id":1,
+            "name":"subham bikash behera",
+            "attendance":97.7
+        },
+        {
+            "id":2,
+            "name":"ankit hota",
+            "attendance":93.7
+        }
+    ]
+}
